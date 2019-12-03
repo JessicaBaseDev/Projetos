@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\bin\Debug\netcoreapp3.0\Pedidos.exe
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\bin\Debug\netcoreapp3.0\Pedidos.deps.json
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\bin\Debug\netcoreapp3.0\Pedidos.runtimeconfig.json
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\bin\Debug\netcoreapp3.0\Pedidos.runtimeconfig.dev.json
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\bin\Debug\netcoreapp3.0\Pedidos.dll
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\bin\Debug\netcoreapp3.0\Pedidos.pdb
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\obj\Debug\netcoreapp3.0\Pedidos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\obj\Debug\netcoreapp3.0\Pedidos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\obj\Debug\netcoreapp3.0\Pedidos.AssemblyInfo.cs
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\obj\Debug\netcoreapp3.0\Pedidos.dll
+C:\Users\User\Desktop\jessica\Projetos\Pedidos\Pedidos\obj\Debug\netcoreapp3.0\Pedidos.pdb
