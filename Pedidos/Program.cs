@@ -8,7 +8,7 @@ namespace Pedidos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pedido de Vendas!");
+            Console.WriteLine("Pedido de Vendas, Bem Vindo!");
             Console.WriteLine("Enter with Client data");
             Console.Write("Name: ");
             string name = Console.ReadLine();
